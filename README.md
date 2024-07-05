@@ -1,7 +1,7 @@
-Welcome to My Developer World! 👋
+# Welcome to My Developer World! 👋
 Hey there! I'm Elijah Wood, a passionate Full-Stack Developer who loves crafting awesome web applications using TypeScript, JavaScript, Python, and React. Whether it's building sleek front-end interfaces or robust back-end services, I'm here to create efficient and scalable solutions.
 
-What You'll Find Here
+# What You'll Find Here
 This repository is where I showcase my projects and experiments in web development. You'll find:
 
 Modern Web Apps: Built with React and TypeScript for smooth user experiences.
