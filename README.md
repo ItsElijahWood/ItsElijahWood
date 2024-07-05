@@ -1,3 +1,5 @@
+![TheElijahWoodGif](TheElijahWood.gif)
+
 # Welcome to My Developer World! 👋
 Hey there! I'm Elijah Wood, a passionate Full-Stack Developer who loves crafting awesome web applications using TypeScript, JavaScript, Python, and React. Whether it's building sleek front-end interfaces or robust back-end services, I'm here to create efficient and scalable solutions.
 
