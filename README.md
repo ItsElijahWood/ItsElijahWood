@@ -1,4 +1,4 @@
-![TheElijahWoodGif]("Untitled design (2).png")
+![TheElijahWoodGif](quote.png)
 
 # Welcome to My Developer World! 👋
 Hi there! I'm Elijah Wood, a dedicated Full-Stack Developer with a passion for creating outstanding web applications. My toolkit includes TypeScript, JavaScript, Python, React, and PHP. Whether it's crafting sleek front-end interfaces or developing robust back-end services, I'm committed to delivering efficient and scalable solutions.
