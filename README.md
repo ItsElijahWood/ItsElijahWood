@@ -1,4 +1,4 @@
 ![TheElijahWoodGif](quote.png)
 
 # Welcome to My Developer World! 👋
-Hi there! I'm Elijah Wood, a dedicated backend Developer. I use TypeScript, JavaScript, Lua, and Rust.
+Hi there! I'm Elijah Wood, a dedicated backend Developer. I use JavaScript and C#
